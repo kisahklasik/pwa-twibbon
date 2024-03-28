@@ -1,7 +1,7 @@
 {
-    "name": "RedCherry",
-    "short_name": "RedCherry",
-    "description": "RedCherry Simple PWA",
+    "name": "Twibbon Web App",
+    "short_name": "Twibbon Web App",
+    "description": "RedCard Simple Twibbon",
     "icons": [
         {
             "src": "img/fav-192.png",
@@ -17,12 +17,12 @@
     ],
     "screenshots": [
         {
-            "src": "img/screenshot-1.jpg",
+            "src": "img/pwa-twibbon.png",
             "sizes": "1000x1600",
             "type": "image/jpeg"
         },
         {
-            "src": "img/screenshot-2.jpg",
+            "src": "img/pwa-twibbon.jpg",
             "sizes": "1000x1600",
             "type": "image/jpeg"
         }
